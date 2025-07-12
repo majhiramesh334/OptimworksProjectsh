@@ -1,0 +1,18 @@
+/* src/styles/App.css */
+
+.app-container {
+  font-family: "Segoe UI", sans-serif;
+  margin: 2rem;
+  background: #f4f8fb;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+}
+
+.section {
+  margin-top: 2rem;
+  padding: 1rem;
+  border-top: 1px solid #ccc;
+  background: #ffffff;
+  border-radius: 10px;
+}
